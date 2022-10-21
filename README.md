@@ -8,9 +8,7 @@
 
 ---
 
-## Profile
-
-![hello](/assets/LinoRino.PNG)
+## Profile ![hello](/assets/LinoRino.PNG)
 
 - **Name**- LinoRino( or Linn )
 - **Living place**
