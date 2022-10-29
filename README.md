@@ -24,6 +24,7 @@ Languages:
 
 Here is my statistics:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LinoRino&show_icons=true&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LinoRino&show_icons=true&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LinoRino&theme=tokyonight&border_radius=24)](https://git.io/streak-stats)
+
 [![My](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoRino&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LinoRino&theme=tokyonight&border_radius=24)](https://git.io/streak-stats)
+
