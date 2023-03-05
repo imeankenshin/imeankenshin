@@ -23,7 +23,7 @@ Languages:
   - [Xcode](https://developer.apple.com/xcode/) - I always use it to develop ios app.
 - Productions
   - [Reminder](https://support.apple.com/ja-jp/guide/reminders/welcome/mac) - MacOS's build-in todo app
-  - [Obsidian](https://obsidian.md/) - Open-source markdown editor as note
+  - [Obsidian](https://obsidian.md/) - Markdown editor as note
 
 ## Statistics
 
