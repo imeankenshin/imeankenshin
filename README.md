@@ -1,10 +1,16 @@
 # LinoRino - @LinoRino
 
-<!-- Languages -->
-
 Languages:
 [🇯🇵Japanese-日本語](README_jp.md)
 [🇬🇧English](README.md)
+
+## Statistics
+
+Here is my statistics.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LinoRino&show_icons=true&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
+
+[![My](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoRino&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
 
 ## Summary 🪪
 
@@ -21,12 +27,6 @@ Languages:
 
 ## Favorite Tools 🛠️
 
-Here is my tools I like to use and my thoughts on them.
-
-> format
-> - `Category`
->   - `Name of the tool` - `Thoughts on the tool`
-
 - IDE
   - [Visual Studio Code](https://code.visualstudio.com/) - The almighty IDE which can do anything about web dev
   - [Xcode](https://developer.apple.com/xcode/) - I always use it to develop ios app
@@ -36,14 +36,8 @@ Here is my tools I like to use and my thoughts on them.
 - For Production
   - [Reminder](https://support.apple.com/ja-jp/guide/reminders/welcome/mac) - MacOS's build-in simple todo app
   - [Obsidian](https://obsidian.md/) - Free markdown editor for memorization like [Notion](https://www.notion.so)
-  - [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft's light browser for Intel Macbook.
+  - [ChatGPT](https://chat.openai.com) - Best AI tool ever!
+  - [Arc](https://www.microsoft.com/edge) - Microsoft's light browser for Intel Macbook.
 - For Amusement
   - [Spotify](https://open.spotify.com/) - Useful and popular music player which has a good price.
-## Statistics
-
-Here is my statistics.
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LinoRino&show_icons=true&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
-
-[![My](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoRino&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
 
