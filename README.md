@@ -1,43 +1,18 @@
 # LinoRino - @LinoRino
 
-Languages:
-[🇯🇵Japanese-日本語](README_jp.md)
-[🇬🇧English](README.md)
-
-## Statistics
-
-Here is my statistics.
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LinoRino&show_icons=true&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
-
-[![My](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoRino&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
+You can call me Linn.
 
 ## Summary 🪪
 
-- **Name** - LinoRino( or Linn )
-- **Living place** - Japan
+- **Living place** - Tokyo, Japan
 - **Work as** - high school student
 - **Active Time** - 9:00 ~ 10:30 (UTC +09:00)
-- **Favorite** - Drawing🎨, Coding💻, Sleeping🛏️, Singing🎙️, etc.
-- **Dislike** - Soda🥤, Something boaring
-- **Language that..**
-  - I'm good at coding - Python(as backend dev), Typescript(as fullstack web dev)
-  - I want to learn - Go(for high performance backend dev), Dart or C#(for cross-platform native apps)
+- **Favorites** - Design🎨, Coding💻, Sleeping🛏️, Singing🎙️, etc.
+- **Dislikes** - Soda🥤, Doing manually which can be done automatically🤌
 - **And also...** - I publish my picture on my Instagram account. [Check it out!](www.instagram.com/LinoRino_off)
 
-## Favorite Tools 🛠️
+## Status
 
-- IDE
-  - [Visual Studio Code](https://code.visualstudio.com/) - The almighty IDE which can do anything about web dev
-  - [Xcode](https://developer.apple.com/xcode/) - I always use it to develop ios app
-- Dev Tools
-  - [Oh My Zsh](https://ohmyz.sh/) - Tools that changes your terminal looks cool. 
-  - [Github](https://github.com) - Platform for searching awesome repos or learning how programmers writing codes.
-- For Production
-  - [Reminder](https://support.apple.com/ja-jp/guide/reminders/welcome/mac) - MacOS's build-in simple todo app
-  - [Obsidian](https://obsidian.md/) - Free markdown editor for memorization like [Notion](https://www.notion.so)
-  - [ChatGPT](https://chat.openai.com) - Best AI tool ever!
-  - [Arc](https://www.microsoft.com/edge) - Microsoft's light browser for Intel Macbook.
-- For Amusement
-  - [Spotify](https://open.spotify.com/) - Useful and popular music player which has a good price.
+[![My GitHub status](https://github-readme-stats.vercel.app/api?username=LinoRino&show_icons=true&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
 
+[![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoRino&count_private=true&theme=tokyonight&border_radius=24)](https://github.com/LinoRino/github-readme-stats)
