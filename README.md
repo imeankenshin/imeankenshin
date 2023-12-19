@@ -1,6 +1,4 @@
-# LinoRino - @LinoRino
-
-You can call me Linn.
+# Kenshin - @imeankenshin
 
 ## Summary 🪪
 
@@ -9,7 +7,6 @@ You can call me Linn.
 - **Active Time** - 9:00 ~ 10:30 (UTC +09:00)
 - **Favorites** - Design🎨, Coding💻, Sleeping🛏️, Singing🎙️, etc.
 - **Dislikes** - Soda🥤, Doing manually which can be done automatically🤌
-- **And also...** - I publish my picture on my Instagram account. [Check it out!](www.instagram.com/LinoRino_off)
 
 ## Status
 
